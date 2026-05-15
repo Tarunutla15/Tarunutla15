@@ -66,20 +66,6 @@ Experienced in designing scalable AI pipelines, semantic retrieval systems, asyn
 
 ---
 
-## 🚀 Featured Projects
-
-### 🔹 SmartAgile
-Enterprise AI workflow platform with RAG-powered policy intelligence and AI assistants.
-
-**Highlights**
-- Semantic policy retrieval
-- Intent-based routing
-- AI workflow automation
-- FastAPI backend services
-- Vector database integration
-
----
-
 ### 🔹 SmartFile AI
 Production-grade document intelligence system using semantic retrieval and vector search.
 
@@ -92,17 +78,6 @@ Production-grade document intelligence system using semantic retrieval and vecto
 
 ---
 
-### 🔹 AI Exam Proctoring System
-Computer vision-based monitoring system using OpenCV and face authentication.
-
-**Features**
-- ArcFace embeddings
-- FAISS similarity search
-- Face alignment
-- Blur detection
-- Real-time authentication
-
----
 
 ### 🔹 RAG Backend
 Scalable FastAPI backend for Retrieval-Augmented Generation workflows.
@@ -125,16 +100,6 @@ Scalable FastAPI backend for Retrieval-Augmented Generation workflows.
 - Integrated vector databases with scalable APIs
 - Developed AI backend systems using AWS Lambda
 - Built semantic retrieval systems using embeddings
-
----
-
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tarunutla15&show_icons=true&theme=tokyonight)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Tarunutla15&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tarunutla15&layout=compact&theme=tokyonight)
 
 ---
 
